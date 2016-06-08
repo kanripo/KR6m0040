@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:45.072376
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:38
 #+TITLE: 肇論新疏
 #+PROPERTY: CBETA_ID T45n1860
 #+PROPERTY: ID KR6m0040
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1860
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6m0040_T_001-0201a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1860[cf.No.1858]¶
-
- 上肇論新疏卷上¶
+No. 1860 [cf. No. 1858]¶
+肇論新疏卷上¶
 ¶
 五臺大萬聖祐國寺開山住持¶
 釋源大白馬寺宗主贈邽國公¶
@@ -982,7 +981,7 @@ No.1860[cf.No.1858]¶
 以明夫聖人之於物也。即萬物之自虛。豈待¶
 宰割以求通哉　空非色外色即是空。空色¶
 非一亦非異也。宰割析滅豈是即空。故二乘¶
-析色斷見未祛。亂意迷空即真未了。¶
+析色斷見未袪。亂意迷空即真未了。¶
 
 是以寢疾有不真之談。超日有即虛之稱¶
 　雙引二經。皆證前義。初淨名問疾品略云。菩¶

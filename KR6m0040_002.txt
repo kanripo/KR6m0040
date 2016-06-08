@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:45.125240
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:38
 #+TITLE: 肇論新疏
 #+PROPERTY: CBETA_ID T45n1860
 #+PROPERTY: ID KR6m0040
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1860
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6m0040_T_002-0212c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 中肇論新疏卷中¶
+肇論新疏卷中¶
 ¶
 五臺大萬祐國寺開山住持釋¶
 源大白馬寺宗主贈邽國公海¶
@@ -1046,7 +1045,7 @@
 而無當等邪。依此訓無者非也。固論下直非¶
 論意。恐滯於是當。故拂之。劉公却取為至當¶
 真是。心有所住非般若也。見下答辭　願復¶
-重喻(曉)以祛(除)其惑矣　惑不從師。而解其於¶
+重喻(曉)以袪(除)其惑矣　惑不從師。而解其於¶
 惑也。終不免矣。¶
 
 論至日。即與遠法師詳省之。法師亦好相領¶
